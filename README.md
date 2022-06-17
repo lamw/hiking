@@ -3,13 +3,13 @@
 
 ## Statistics
 
-**Total Hikes:** 49 (213.61 miles)
+**Total Hikes:** 52 (224.26 miles)
 
 * **2020**: 20 (103.3 miles)
 
 * **2021**: 21 (74.92 miles)
 
-* **2022**: 8 (35.39 miles)
+* **2022**: 11 (46.04 miles)
 
 
 <br>
@@ -65,4 +65,7 @@
 | 47 | https://www.alltrails.com/trail/us/california/spring-valley-to-los-coches-ridge-trail-loop | california | 4.02 | 5/8/2022 |
 | 48 | https://www.alltrails.com/trail/us/california/little-yosemite--2 | california | 3.68 | 5/15/2022 |
 | 49 | https://www.alltrails.com/trail/us/california/rainbow-knoll-and-hunters-point-via-seven-springs-loop-trail | california | 4.11 | 5/21/2022 |
+| 50 | https://www.alltrails.com/trail/us/colorado/bear-creek-trail-to-the-castle | colorado | 3.67 | 6/12/2022 |
+| 51 | https://www.alltrails.com/trail/us/colorado/red-rocks-trading-post-trail | colorado | 1.94 | 6/13/2022 |
+| 52 | https://www.alltrails.com/trail/us/colorado/lost-lake-via-hessie-trail | colorado | 5.04 | 6/15/2022 |
 
