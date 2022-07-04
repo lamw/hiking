@@ -3,13 +3,13 @@
 
 ## Statistics
 
-**Total Hikes:** 53 (229.17 miles)
+**Total Hikes:** 54 (233.34 miles)
 
 * **2020**: 20 (103.3 miles)
 
 * **2021**: 21 (74.92 miles)
 
-* **2022**: 12 (50.95 miles)
+* **2022**: 13 (55.12 miles)
 
 
 <br>
@@ -69,4 +69,5 @@
 | 51 | https://www.alltrails.com/trail/us/colorado/red-rocks-trading-post-trail | Colorado | 1.94 | 6/13/2022 |
 | 52 | https://www.alltrails.com/trail/us/colorado/lost-lake-via-hessie-trail | Colorado | 5.04 | 6/15/2022 |
 | 53 | https://www.alltrails.com/trail/us/california/juniper-canyon-trail-to-high-peaks | California | 4.91 | 6/19/2022 |
+| 54 | https://www.alltrails.com/trail/us/california/cataract-falls-trail | California | 4.17 | 7/3/2022 |
 
