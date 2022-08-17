@@ -3,13 +3,13 @@
 
 ## Statistics
 
-**Total Hikes:** 55 (238.05 miles)
+**Total Hikes:** 56 (239.84 miles)
 
 * **2020**: 20 (103.3 miles)
 
 * **2021**: 21 (74.92 miles)
 
-* **2022**: 14 (59.83 miles)
+* **2022**: 15 (61.62 miles)
 
 
 <br>
@@ -71,4 +71,5 @@
 | 53 | https://www.alltrails.com/trail/us/california/juniper-canyon-trail-to-high-peaks | California | 4.91 | 6/19/2022 |
 | 54 | https://www.alltrails.com/trail/us/california/cataract-falls-trail | California | 4.17 | 7/3/2022 |
 | 55 | https://www.alltrails.com/trail/us/california/bald-peaks-trail-to-serpentine-loop | California | 4.71 | 7/25/2022 |
+| 56 | https://www.alltrails.com/trail/us/california/annies-canyon-trail-via-north-rios-trailhead-loop | California | 1.79 | 8/8/2022 |
 
