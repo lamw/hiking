@@ -3,13 +3,13 @@
 
 ## Statistics
 
-**Total Hikes:** 56 (239.84 miles)
+**Total Hikes:** 57 (242.56 miles)
 
 * **2020**: 20 (103.3 miles)
 
 * **2021**: 21 (74.92 miles)
 
-* **2022**: 15 (61.62 miles)
+* **2022**: 16 (64.34 miles)
 
 
 <br>
@@ -72,4 +72,5 @@
 | 54 | https://www.alltrails.com/trail/us/california/cataract-falls-trail | California | 4.17 | 7/3/2022 |
 | 55 | https://www.alltrails.com/trail/us/california/bald-peaks-trail-to-serpentine-loop | California | 4.71 | 7/25/2022 |
 | 56 | https://www.alltrails.com/trail/us/california/annies-canyon-trail-via-north-rios-trailhead-loop | California | 1.79 | 8/8/2022 |
+| 57 | https://www.alltrails.com/trail/us/california/old-landing-cove-trail | Https: | 2.72 | 9/4/2022 |
 
