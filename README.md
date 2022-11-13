@@ -3,13 +3,13 @@
 
 ## Statistics
 
-**Total Hikes:** 58 (251.07 miles)
+**Total Hikes:** 60 (257.84 miles)
 
 * **2020**: 20 (103.3 miles)
 
 * **2021**: 21 (74.92 miles)
 
-* **2022**: 17 (72.85 miles)
+* **2022**: 19 (79.62 miles)
 
 
 <br>
@@ -74,4 +74,6 @@
 | 56 | https://www.alltrails.com/trail/us/california/annies-canyon-trail-via-north-rios-trailhead-loop | California | 1.79 | 8/8/2022 |
 | 57 | https://www.alltrails.com/trail/us/california/old-landing-cove-trail | California | 2.72 | 9/4/2022 |
 | 58 | https://www.alltrails.com/trail/us/california/mount-umunhum | California | 8.51 | 10/15/2022 |
+| 59 | https://www.alltrails.com/trail/us/california/moses-spring-and-rim-trail-loop | California | 2 | 10/30/2022 |
+| 60 | https://www.alltrails.com/trail/us/california/mayfair-ranch-and-longwall-canyon-loop | California | 4.77 | 11/13/2022 |
 
