@@ -3,13 +3,13 @@
 
 ## Statistics
 
-**Total Hikes:** 60 (257.84 miles)
+**Total Hikes:** 63 (271.86 miles)
 
 * **2020**: 20 (103.3 miles)
 
 * **2021**: 21 (74.92 miles)
 
-* **2022**: 19 (79.62 miles)
+* **2022**: 22 (93.64 miles)
 
 
 <br>
@@ -76,4 +76,7 @@
 | 58 | https://www.alltrails.com/trail/us/california/mount-umunhum | California | 8.51 | 10/15/2022 |
 | 59 | https://www.alltrails.com/trail/us/california/moses-spring-and-rim-trail-loop | California | 2 | 10/30/2022 |
 | 60 | https://www.alltrails.com/trail/us/california/mayfair-ranch-and-longwall-canyon-loop | California | 4.77 | 11/13/2022 |
+| 61 | https://www.alltrails.com/trail/us/california/pipeline-road-trail | California | 6.71 | 11/21/2022 |
+| 62 | https://www.alltrails.com/trail/us/california/rodeo-lagoon-to-point-bonita-lighthouse | California | 3.84 | 11/24/2022 |
+| 63 | https://www.alltrails.com/trail/us/california/prairie-trail-rincon-trail-and-spring-trail-loop | California | 3.47 | 12/4/2022 |
 
