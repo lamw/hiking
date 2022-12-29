@@ -3,13 +3,13 @@
 
 ## Statistics
 
-**Total Hikes:** 63 (271.86 miles)
+**Total Hikes:** 66 (278.67 miles)
 
 * **2020**: 20 (103.3 miles)
 
 * **2021**: 21 (74.92 miles)
 
-* **2022**: 22 (93.64 miles)
+* **2022**: 25 (100.45 miles)
 
 
 <br>
@@ -79,4 +79,7 @@
 | 61 | https://www.alltrails.com/trail/us/california/pipeline-road-trail | California | 6.71 | 11/21/2022 |
 | 62 | https://www.alltrails.com/trail/us/california/rodeo-lagoon-to-point-bonita-lighthouse | California | 3.84 | 11/24/2022 |
 | 63 | https://www.alltrails.com/trail/us/california/prairie-trail-rincon-trail-and-spring-trail-loop | California | 3.47 | 12/4/2022 |
+| 64 | https://www.alltrails.com/trail/hawaii/maui/honolua-bay-access-trail | Hawaii | 0.06 | 12/18/2022 |
+| 65 | https://www.alltrails.com/trail/hawaii/maui/waihou-spring-trail | Hawaii | 1.47 | 12/25/2022 |
+| 66 | https://www.alltrails.com/trail/us/california/tarwater-trail-loop | California | 5.28 | 12/29/2022 |
 
