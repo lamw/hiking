@@ -7,9 +7,9 @@
 
 * **2020**: 20 (103.3 miles)
 
-* **2021**: 21 (74.92 miles)
+* **2021**: 20 (72.09 miles)
 
-* **2022**: 25 (100.45 miles)
+* **2022**: 26 (103.28 miles)
 
 
 <br>
@@ -56,7 +56,7 @@
 | 38 | https://www.alltrails.com/trail/us/california/webb-canyon-new-almaden-cinnabar-mine-hill-randol-and-prospect-3-loop | California | 6.4 | 10/11/2021 |
 | 39 | https://www.alltrails.com/trail/us/california/deer-path-bay-laurel-and-valley-oak-loop | California | 3.73 | 11/7/2021 |
 | 40 | https://www.alltrails.com/trail/us/california/glenwood-trail-loop | California | 3.41 | 11/26/2021 |
-| 41 | https://www.alltrails.com/trail/us/california/artemas-ginzton-path-and-byrne-preserve--2 | California | 2.83 | 12/31/2021 |
+| 41 | https://www.alltrails.com/trail/us/california/artemas-ginzton-path-and-byrne-preserve--2 | California | 2.83 | 1/1/2022 |
 | 42 | https://www.alltrails.com/trail/us/california/french-trail-tres-sendas-and-stream-trail-loop | California | 3.5 | 1/17/2022 |
 | 43 | https://www.alltrails.com/trail/us/california/ewing-hill-loop | California | 4.78 | 2/27/2022 |
 | 44 | https://www.alltrails.com/trail/us/california/redrail-portola-pastures-meadowlark-and-wild-rye-trail | California | 3.41 | 3/27/2022 |
@@ -70,13 +70,13 @@
 | 52 | https://www.alltrails.com/trail/us/colorado/lost-lake-via-hessie-trail | Colorado | 5.04 | 6/15/2022 |
 | 53 | https://www.alltrails.com/trail/us/california/juniper-canyon-trail-to-high-peaks | California | 4.91 | 6/19/2022 |
 | 54 | https://www.alltrails.com/trail/us/california/cataract-falls-trail | California | 4.17 | 7/3/2022 |
-| 55 | https://www.alltrails.com/trail/us/california/bald-peaks-trail-to-serpentine-loop | California | 4.71 | 7/25/2022 |
+| 55 | https://www.alltrails.com/trail/us/california/bald-peaks-trail-to-serpentine-loop | California | 4.71 | 7/24/2022 |
 | 56 | https://www.alltrails.com/trail/us/california/annies-canyon-trail-via-north-rios-trailhead-loop | California | 1.79 | 8/8/2022 |
 | 57 | https://www.alltrails.com/trail/us/california/old-landing-cove-trail | California | 2.72 | 9/4/2022 |
 | 58 | https://www.alltrails.com/trail/us/california/mount-umunhum | California | 8.51 | 10/15/2022 |
 | 59 | https://www.alltrails.com/trail/us/california/moses-spring-and-rim-trail-loop | California | 2 | 10/30/2022 |
 | 60 | https://www.alltrails.com/trail/us/california/mayfair-ranch-and-longwall-canyon-loop | California | 4.77 | 11/13/2022 |
-| 61 | https://www.alltrails.com/trail/us/california/pipeline-road-trail | California | 6.71 | 11/21/2022 |
+| 61 | https://www.alltrails.com/trail/us/california/pipeline-road-trail | California | 6.71 | 11/20/2022 |
 | 62 | https://www.alltrails.com/trail/us/california/rodeo-lagoon-to-point-bonita-lighthouse | California | 3.84 | 11/24/2022 |
 | 63 | https://www.alltrails.com/trail/us/california/prairie-trail-rincon-trail-and-spring-trail-loop | California | 3.47 | 12/4/2022 |
 | 64 | https://www.alltrails.com/trail/hawaii/maui/honolua-bay-access-trail | Hawaii | 0.06 | 12/18/2022 |
