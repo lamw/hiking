@@ -3,13 +3,15 @@
 
 ## Statistics
 
-**Total Hikes:** 66 (278.67 miles)
+**Total Hikes:** 70 (302.25 miles)
 
 * **2020**: 20 (103.3 miles)
 
 * **2021**: 20 (72.09 miles)
 
 * **2022**: 26 (103.28 miles)
+
+* **2023**: 4 (5738.58 miles)
 
 
 <br>
@@ -82,4 +84,8 @@
 | 64 | https://www.alltrails.com/trail/hawaii/maui/honolua-bay-access-trail | Hawaii | 0.06 | 12/18/2022 |
 | 65 | https://www.alltrails.com/trail/hawaii/maui/waihou-spring-trail | Hawaii | 1.47 | 12/25/2022 |
 | 66 | https://www.alltrails.com/trail/us/california/tarwater-trail-loop | California | 5.28 | 12/29/2022 |
+| 67 | https://www.alltrails.com/trail/us/california/long-ridge-loop | California | 5 | 5/29/2023 |
+| 68 | https://www.alltrails.com/trail/us/california/mission-peak-via-peak-meadow-trail | California | 7 | 6/11/2023 |
+| 69 | https://www.alltrails.com/trail/us/california/garland-ranch-waterfall-and-siesta-point-via-lupine-loop-trail | California | 3 | 6/18/2023 |
+| 70 | https://www.alltrails.com/trail/us/oregon/trail-of-ten-falls-canyon-trail | Oregon | 8.58 | 7/4/2023 |
 
